@@ -17,6 +17,7 @@ I am currently working remotely for MD Anderson Cancer Center in Houston Texas a
 
 ### OmicPioneer-sc and Next Generation Clustered Heatmaps (NG-CHM)
 [Next Generation Clustered Heat Maps](https://bioinformatics.mdanderson.org/public-software/ngchm) - [Blog](https://www.ngchm.net/) - [Related Youtube Videos](https://www.youtube.com/channel/UCADGir2q8IaI9cGQuzjSL9w) - [OmicPioneer-sc](https://www.biorxiv.org/content/10.1101/2020.10.31.363580v1.full.pdf) 
+
 Related Github Repositories: 
 - NGCHM Viewer [Github Repo](https://github.com/MD-Anderson-Bioinformatics/NG-CHM)
 - GUI Heatmap Builder [Github Repo](https://github.com/MD-Anderson-Bioinformatics/NG-CHM_GUI_BUILDER) - [Live Software](https://build.ngchm.net/NGCHM-web-builder/)
@@ -29,7 +30,9 @@ Related Github Repositories:
 - 3d ScatterPlot plugin for NGCHM Viewer [Github Repo](https://github.com/MD-Anderson-Bioinformatics/ScatterPlotPlugin3D)
 
 ### Reverse-Phase Protein Array Super Position and Concentration Evaluation
-- [RPPASPACE R package on CRAN](https://cran.r-project.org/web/packages/RPPASPACE/index.html) - [Github Repo](https://github.com/MD-Anderson-Bioinformatics/rppaspace)
+- [RPPASPACE R package on CRAN](https://cran.r-project.org/web/packages/RPPASPACE/index.html) 
+- [Github Repo](https://github.com/MD-Anderson-Bioinformatics/rppaspace)
+- [Guide to Use of RPPASPACE](https://cran.r-project.org/web/packages/RPPASPACE/vignettes/Guide_to_RPPASPACE.pdf)
 
 ### Batch Effects and Standardized Data
 - MBatch and MBatchUtils R Packages and MBatch Stand-Alone Docker Image [Github Repo](https://github.com/MD-Anderson-Bioinformatics/BatchEffectsPackage) - [MBatch Omics Browser](https://bioinformatics.mdanderson.org/MQA/) - [Info](https://bioinformatics.mdanderson.org/public-software/tcga-batch-effects/)
