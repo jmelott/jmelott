@@ -6,7 +6,7 @@ I am currently working remotely for MD Anderson Cancer Center in Houston Texas a
 
 [Books I've published for sale on Amazon](https://jamesmelott.com/products/index.html)
 
-## Software repositories and websites with I am involved (Ssource code contributions and/or issue reporting and/or documentation)
+## Software repositories and websites with I am involved (Source code contributions and/or issue reporting and/or documentation)
 
 ### Pathways Web and Pathways Browser
 - [Info](https://bioinformatics.mdanderson.org/public-software/pathwaysweb/) - 
