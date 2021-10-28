@@ -25,7 +25,7 @@ Related Github Repositories:
 - NGCHM Viewer [Github Repo](https://github.com/MD-Anderson-Bioinformatics/NG-CHM)
 - GUI Heatmap Builder [Github Repo](https://github.com/MD-Anderson-Bioinformatics/NG-CHM_GUI_BUILDER) -- [Live Software](https://build.ngchm.net/NGCHM-web-builder/)
 - Galaxy NGCHM Builder [Github Repo](https://github.com/MD-Anderson-Bioinformatics/NG-CHM_Galaxy) -- [Galaxy Toolshed](https://toolshed.g2.bx.psu.edu/repository?repository_id=858b27481f992d38) [Galaxy Docker Image](https://hub.docker.com/r/ngchm/ngchm-galaxy/) -- [A Galaxy Implementation of Next-Generation Clustered Heatmaps for Interactive Exploration of Molecular Profiling Data](https://cancerres.aacrjournals.org/content/77/21/e23)
-- GenePattern NGCHm Builders [Basic NGCHM Builder Github Repo](https://github.com/MD-Anderson-Bioinformatics/GenePattern_NGCHM_BasicBuilder) -- [GenePattern NGCHM Viewer](https://github.com/MD-Anderson-Bioinformatics/GenePattern_NGCHM_Viewer)
+- GenePattern NGCHM Builders [Basic NGCHM Builder Github Repo](https://github.com/MD-Anderson-Bioinformatics/GenePattern_NGCHM_BasicBuilder) -- [GenePattern NGCHM Viewer](https://github.com/MD-Anderson-Bioinformatics/GenePattern_NGCHM_Viewer)
 - NGCHM-R : R Package for building NGCHMs  [Github Repo](https://github.com/MD-Anderson-Bioinformatics/NGCHM-R)
 - NGCHM RStudio Docker container [Github Repo](https://github.com/MD-Anderson-Bioinformatics/rstudio-ngchm)
 - PathwaysMapper plugin for NGCHM Viewer [Github Repo](https://github.com/MD-Anderson-Bioinformatics/pathway-mapper)
