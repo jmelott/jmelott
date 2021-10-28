@@ -1,6 +1,6 @@
 # James Michael Melott
 
-I am currently working remotely for MD Anderson Cancer Center in Houston Texas as a Senior Systems Analyst where I do software design, development and testing.
+I work remotely for MD Anderson Cancer Center in Houston Texas as a Senior Systems Analyst where I do software design, development and testing.
 
 [Work background (Resume)](https://jamesmelott.com/resume/Resume_of_James_Michael_Melott.html)
 
