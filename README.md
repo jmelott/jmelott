@@ -54,12 +54,14 @@ Related Github Repositories:
 - A comprehensive resource for accessing, visualizing, and analyzing cancer functional proteomics.
 - [TCPA Website](https://tcpaportal.org/tcpa/) 
 - [Info](https://bioinformatics.mdanderson.org/public-software/tcpa/) 
-- [Publication](http://dx.doi.org/10.1038/nmeth.2650)
+- [TCPA: a resource for cancer functional proteomics data](http://dx.doi.org/10.1038/nmeth.2650)
 
 ### TCGA SpliceSeq
 - A tool for investigating alternative mRNA splicing in next generation mRNA sequence data
-- [SpliceSeq Website]()
-- [Info](https://bioinformatics.mdanderson.org/public-software/spliceseq/) - [SpliceSeq: a resource for analysis and visualization of RNA-Seq data on alternative splicing and its functional impacts](https://academic.oup.com/bioinformatics/article/28/18/2385/253789)
+- [SpliceSeq Website](https://bioinformatics.mdanderson.org/TCGASpliceSeq/)
+- [Github Repo](https://github.com/MD-Anderson-Bioinformatics/SpliceSeq)
+- [SpliceSeq: a resource for analysis and visualization of RNA-Seq data on alternative splicing and its functional impacts](https://academic.oup.com/bioinformatics/article/28/18/2385/253789)
+- [Info](https://bioinformatics.mdanderson.org/public-software/spliceseq/) 
 
 ### SOS Notebook
 - Script of Scripts : An interactive multi-language data analysis environment 
