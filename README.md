@@ -2,7 +2,7 @@
 
 I work remotely for MD Anderson Cancer Center in Houston Texas as a Senior Systems Analyst where I do software design, development and testing.
 
-[Linked in](https://https://www.linkedin.com/in/james-melott-b60a8913/)
+[Linked in](https://www.linkedin.com/in/james-melott-b60a8913/)
 
 [Work background (Resume)](https://jamesmelott.com/resume/Resume_of_James_Michael_Melott.html)
 
