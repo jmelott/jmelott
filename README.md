@@ -9,9 +9,11 @@ I am currently working remotely for MD Anderson Cancer Center in Houston Texas a
 ## Software repositories and websites with I am involved (Ssource code contributions and/or issue reporting and/or documentation)
 
 ### Pathways Web and Pathways Browser
-[PathwaysBrowser](https://bioinformatics.mdanderson.org/PathwaysBrowser) and [PathwaysWeb](http://bioinformatics.mdanderson.org/PathwaysWeb/versions) - [PatwhaysWeb](https://bioinformatics.mdanderson.org/public-software/pathwaysweb/) - 
+- [Info](https://bioinformatics.mdanderson.org/public-software/pathwaysweb/) - 
 [PathwaysWeb: a gene pathways API with directional interactions, expanded gene ontology, and versioning](https://pubmed.ncbi.nlm.nih.gov/26400039/)
 (https://pubmed.ncbi.nlm.nih.gov/32269754/) 
+- [PathwaysBrowser website](https://bioinformatics.mdanderson.org/PathwaysBrowser)
+- [PathwaysWeb REST-like API](http://bioinformatics.mdanderson.org/PathwaysWeb/versions) 
 
 ### OmicPioneer-sc and Next Generation Clustered Heatmaps (NG-CHM)
 [Next Generation Clustered Heat Maps](https://bioinformatics.mdanderson.org/public-software/ngchm) - [Blog](https://www.ngchm.net/) - [Related Youtube Videos](https://www.youtube.com/channel/UCADGir2q8IaI9cGQuzjSL9w) - [OmicPioneer-sc](https://www.biorxiv.org/content/10.1101/2020.10.31.363580v1.full.pdf) 
