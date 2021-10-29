@@ -76,7 +76,7 @@ Related Github Repositories:
 - [TANRIC: An Interactive Open Platform to Explore the Function of lncRNAs in Cancer](https://cancerres.aacrjournals.org/content/75/18/3728)
 - [Info](https://bioinformatics.mdanderson.org/public-software/tanric/)
 
-### TansVar
+### TransVar
 - TransVar is a multi-way annotator for genetic elements and genetic variations.
 - [TransVar Website](https://bioinformatics.mdanderson.org/transvar/)
 - [User Guide](https://transvar.readthedocs.io/en/latest/)
